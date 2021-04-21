@@ -1,0 +1,47 @@
+[
+    {
+       "question":
+       "The correct sequence of HTML tags for starting a webpage is",
+       "choice1": "Head, Title, HTML, Body",
+       "choice2": "HTML, Body, Title, Head",
+       "choice3": "Head, Title, HTML, Body",
+       "choice4|": "HTML, Head, Title, Body",
+       "answer": 4
+       },
+   {
+       "question":
+       "How to add a background color in HTML?",
+       "choice1":"<marquee bg color:“red”>",
+       "choice2":"<marquee bg-color = “red”>",
+       "choice3":"<marquee bgcolor = “red”>",
+       "choice4":"<marquee color = “red”>",
+       "answer":3
+   },
+   {
+       "question":
+       "Which character is used to represent the closing of a tag in HTML?",
+       "choice1" : "<\>" ,
+       "choice2" : "<!>" ,
+       "choice3" : "</>" ,
+       "choice4" : "<.>" ,
+       "answer":3
+   },
+   {
+       "question":
+       "Which of the following element is responsible for making the text italic in HTML?",
+        "choice1":  "<i>",
+        "choice2": "<italic>",
+        "choice3": "<it>",
+        "choice4": "<pre>",
+        "answer": 1
+   },
+   {
+       "question":
+       "Which one of these is a JavaScript package manager?",
+        "choice1": "Node.js",
+        "choice2": "TypeScript",
+        "choice3": "npm",
+        "choice4":"Angular",
+        "answer": 3
+   }
+   ]
